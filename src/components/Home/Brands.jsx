@@ -1,5 +1,5 @@
 import React from 'react';
-
+import img from '../../assets/recycle-5047886_640.png'
 const Brands = () => {
     return (
         <div>
@@ -13,41 +13,25 @@ const Brands = () => {
                                     href="javascript:void(0)"
                                     class="mx-4 flex w-[150px] items-center justify-center py-5 2xl:w-[180px]"
                                 >
-                                    <img
-                                        src="https://cdn.tailgrids.com/2.0/image/assets/images/brands/graygrids.svg"
-                                        alt="image"
-                                        class="h-10 w-full"
-                                    />
+                                    <img src={img} width="130" height="130" alt="" />
                                 </a>
                                 <a
                                     href="javascript:void(0)"
                                     class="mx-4 flex w-[150px] items-center justify-center py-5 2xl:w-[180px]"
                                 >
-                                    <img
-                                        src="https://cdn.tailgrids.com/2.0/image/assets/images/brands/lineicons.svg"
-                                        alt="image"
-                                        class="h-10 w-full"
-                                    />
+                                    <img src={img} width="130" height="130" alt="" />
                                 </a>
                                 <a
                                     href="javascript:void(0)"
                                     class="mx-4 flex w-[150px] items-center justify-center py-5 2xl:w-[180px]"
                                 >
-                                    <img
-                                        src="https://cdn.tailgrids.com/2.0/image/assets/images/brands/uideck.svg"
-                                        alt="image"
-                                        class="h-10 w-full"
-                                    />
+                                    <img src={img} width="130" height="130" alt="" />
                                 </a>
                                 <a
                                     href="javascript:void(0)"
                                     class="mx-4 flex w-[150px] items-center justify-center py-5 2xl:w-[180px]"
                                 >
-                                    <img
-                                        src="https://cdn.tailgrids.com/2.0/image/assets/images/brands/ayroui.svg"
-                                        alt="image"
-                                        class="h-10 w-full"
-                                    />
+                                    <img src={img} width="130" height="130" alt="" />
                                 </a>
                             </div>
                         </div>

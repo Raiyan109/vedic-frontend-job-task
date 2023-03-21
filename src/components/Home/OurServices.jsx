@@ -5,9 +5,9 @@ const OurServices = () => {
     return (
         <div className='bg-[#b6e7b6]'>
             <div className=''>
-                <h1 className="mb-5 pt-20 text-5xl text-[#063806] font-bold text-center flex flex-col w-full ">Our Services</h1>
+                <h1 className="mb-5 pt-20 text-5xl text-primary font-bold text-center flex flex-col w-full ">Our Services</h1>
 
-                <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Green solutions can help you in cost-cutting of energy by reducing energy consumption, generating clean energy, taking advantage of
+                <p class="lg:w-2/3 mx-auto leading-relaxed text-primary py-5">Green solutions can help you in cost-cutting of energy by reducing energy consumption, generating clean energy, taking advantage of
                     government incentives, and improving building design. By adopting green solutions, individuals and businesses can save money on energy
                     bills and promote a more sustainable future for al</p>
 
